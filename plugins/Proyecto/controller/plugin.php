@@ -13,7 +13,7 @@
  */
 class plugin extends fs_controller {
     public function __construct() {
-        parent::__construct(__CLASS__, 'plugin test','compras');
+        parent::__construct(__CLASS__, 'AQUIplugin test','compras');
     }
     
 }
